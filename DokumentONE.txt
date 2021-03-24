@@ -1,3 +1,4 @@
+Этот документ создан в блокноте в папке на локале+ в командной строке (cmd)(git add DokumentONE.tx-> git push)
 Эта строка создана вместе с DokumentOne.txt в блокноте в папке на локале
 Изменения TEST
 Эту строку я добавил в документе + в командной строке (git add DokumentONE.txt->git commit -m"Текст"-. git push)
