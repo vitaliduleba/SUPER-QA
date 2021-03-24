@@ -1,3 +1,4 @@
 Проверка TEST
 Изменения TEST
 Add Line
+Эту строку я добавил на сайте + GitBash(git fetch -> git pull)
