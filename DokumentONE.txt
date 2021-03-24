@@ -1,5 +1,5 @@
 Проверка TEST
 Изменения TEST
-Add Line
+Эту строку я добавил в документе + в командной строке (git add DokumentONE.txt->git commit -m"Текст"-. git push)
 Эту строку я добавил на сайте + GitBash(git fetch -> git pull)
 Эту строку я добавил в GitBash через echo Текст >> DokumentONE.txt->git diff->git add DokumentOne.txt->git commit -mnew commit->git push
