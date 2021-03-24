@@ -1,4 +1,4 @@
-Проверка TEST
+Эта строка создана вместе с DokumentOne.txt в блокноте в папке на локале
 Изменения TEST
 Эту строку я добавил в документе + в командной строке (git add DokumentONE.txt->git commit -m"Текст"-. git push)
 Эту строку я добавил на сайте + GitBash(git fetch -> git pull)
